@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm Samantha</h1>
-<h3 align="center">I'm a senior interested in full stack development. </h3>
+<h3 align="center">I'm a college freshmn interested in full stack development and IT. </h3>
 
 I’m currently learning 
 - **Frontend development**
